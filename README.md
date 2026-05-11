@@ -1,2 +1,3 @@
 # Boston-news-live
-Boston Newsweek lived dashboard 7 sources, weather, alerts monetized
+Boston Newsweek live dashboard 7 sources, weather, alerts monetized
+`index.html`
